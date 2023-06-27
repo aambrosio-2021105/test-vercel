@@ -1,0 +1,16 @@
+export const Voluntario = {
+    _id: "",
+    nombre: "",
+    correo: "",
+    password: "",
+    telefono: '',
+    direccion: '',
+    rol: "",
+    array_img: "",
+    array_historial_voluntariados: '',
+    telefono: '',
+    direccion: '',
+    CV:new FormData(),
+    DPI:new FormData(),
+    antecedentes:new FormData(),
+};
